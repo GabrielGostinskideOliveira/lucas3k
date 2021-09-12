@@ -1,4 +1,9 @@
-## Olá, sou o Lucas3k
+## Olá, sejas bem vindo
+<p>
+ Me chamo Lucas Camargo sou desenvolvedor web/mobal, <br> 
+ tenho 19 anos estudante e amante da programação, sempre em busca de um próximo desafio afim de um próximo nível
+</p>
+
  <div>
   <a href="https://github.com/lucas3k">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=lucas3k&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
